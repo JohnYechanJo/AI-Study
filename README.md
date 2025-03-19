@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Medical AI Study</h1>
+<h1>AI Study</h1>
   
 [![GitHub last commit](https://img.shields.io/github/last-commit/JohnYechanJo/Medical-AI-Study)](https://github.com/JohnYechanJo/Medical-AI-Study/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/JohnYechanJo/Medical-AI-Study)](https://github.com/JohnYechanJo/Medical-AI-Study/issues)
