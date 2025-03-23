@@ -1,12 +1,12 @@
 <div align="center">
 <h1>AI Study</h1>
   
-[![GitHub last commit](https://img.shields.io/github/last-commit/JohnYechanJo/Medical-AI-Study)](https://github.com/JohnYechanJo/Medical-AI-Study/commits/main)
-[![GitHub issues](https://img.shields.io/github/issues/JohnYechanJo/Medical-AI-Study)](https://github.com/JohnYechanJo/Medical-AI-Study/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/JohnYechanJo/AI-Study)](https://github.com/JohnYechanJo/Medical-AI-Study/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/JohnYechanJo/AI-Study)](https://github.com/JohnYechanJo/AI-Study/issues)
 <br>
 ## Contributors
 
-[![GitHub Contributors](https://img.shields.io/github/contributors-anon/JohnYechanJo/Medical-AI-Study)](https://github.com/JohnYechanJo/Medical-AI-Study/graphs/contributors)
+[![GitHub Contributors](https://img.shields.io/github/contributors-anon/JohnYechanJo/AI-Study)](https://github.com/JohnYechanJo/AI-Study/graphs/contributors)
 
 <table>
   <tr>
